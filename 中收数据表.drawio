@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-26T03:20:26.906Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="29loSrsAZjEBiGOrrJna" version="23.0.1" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2024-01-26T03:21:28.699Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="OmBxeH_68RCjmzx5wRYF" version="23.0.1" type="github" pages="3">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="会员">
     <mxGraphModel dx="2284" dy="1886" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
@@ -2023,7 +2023,7 @@
             <mxRectangle width="220" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TKwu6NJpMno_7CkER3CP-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="f7qOBUJ0udFLG4K-RCmP-2" target="TKwu6NJpMno_7CkER3CP-11">
+        <mxCell id="TKwu6NJpMno_7CkER3CP-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="TKwu6NJpMno_7CkER3CP-23" target="TKwu6NJpMno_7CkER3CP-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="TKwu6NJpMno_7CkER3CP-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="f7qOBUJ0udFLG4K-RCmP-5" target="f7qOBUJ0udFLG4K-RCmP-42">
@@ -2031,6 +2031,15 @@
         </mxCell>
         <mxCell id="TKwu6NJpMno_7CkER3CP-21" value="后续同会员" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1760" y="110" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TKwu6NJpMno_7CkER3CP-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="f7qOBUJ0udFLG4K-RCmP-2" target="TKwu6NJpMno_7CkER3CP-23">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1230" y="265" as="sourcePoint" />
+            <mxPoint x="1480" y="165" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TKwu6NJpMno_7CkER3CP-23" value="只有提额数据" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1340" y="145" width="60" height="35" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
